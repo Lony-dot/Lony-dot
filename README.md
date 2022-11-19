@@ -1,5 +1,5 @@
 ### Olá, eu sou o Lony 👻
-Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então venho me empenhando cada vez mais para aprender a programar melhor, pois quero me tornar um otimo Desenvolvedor;
+Em 2021 comecei a cursar Analise e desenvolvimento de sistemas, desde então venho me empenhando cada vez mais para aprender a programar melhor e criar códigos de fácil entendimento.
 
 - 🔭 Hoje estudo PHP/Laravel e Javascript
 
