@@ -1,4 +1,5 @@
 ### Olá, eu sou o Lony 👻
+Em 2020 comecei a cursar Analise e desenvolvimento de sistemas, desde então venho me empenhando cada vez mais para aprender a programar melhor, pois quero me tornar um otimo Desenvolvedor;
 
 - 🔭 Hoje estudo PHP/Laravel e Javascript
 
@@ -22,8 +23,11 @@
 ##  
   
 <div>  
+
   <a href = "mailto:loonydarck@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/harrison-bueno-b4b7ba1a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://wa.me/message/CRQY3GBEGCC5P1">
+
  
 </div>  
 
